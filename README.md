@@ -23,7 +23,6 @@ interests:
   - Medical Image Analysis
   - Object Detection
 currently_learning:
-  - YOLOv8
   - AI Engineering
 ```
 
@@ -41,6 +40,9 @@ currently_learning:
 ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=ff4b4b)
 ![pytest](https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=0a9edc)
 ![Ruff](https://img.shields.io/badge/Ruff-0d1117?style=for-the-badge&logo=ruff&logoColor=d7ff64)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=f37626)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=fcc624)
 
 </div>
 
