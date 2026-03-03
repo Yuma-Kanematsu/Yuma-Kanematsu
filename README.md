@@ -11,8 +11,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma-Kanematsu&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=6" width="260" />
-
 ### `> whoami`
 
 ```yaml
@@ -28,8 +26,6 @@ currently_learning:
   - YOLOv8
   - AI Engineering
 ```
-
-<br clear="right"/>
 
 ---
 
