@@ -3,13 +3,6 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Yuma%20Kanematsu&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=AI%20%2F%20Deep%20Learning%20%7C%20Doshisha%20University&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Computer+Vision+%F0%9F%91%81%EF%B8%8F;Deep+Learning+Researcher+%F0%9F%94%AC;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
 <!-- Social Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/Yuma-Kanematsu?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff)](https://github.com/Yuma-Kanematsu)
 [![Location](https://img.shields.io/badge/Hyogo,_Japan-0d1117?style=for-the-badge&logo=google-maps&logoColor=ea4335)](https://github.com/Yuma-Kanematsu)
@@ -68,17 +61,6 @@ currently_learning:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuma-Kanematsu&theme=github-compact&hide_border=true&bg_color=0d1117&color=e6edf3&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="95%" />
-</div>
-
----
-
-### Featured Projects
-
-<div align="center">
-
-[![Bone Fracture Detection](https://github-readme-stats.vercel.app/api/pin/?username=Yuma-Kanematsu&repo=Bone_Fracture_Detection_YOLOv8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e)](https://github.com/Yuma-Kanematsu/Bone_Fracture_Detection_YOLOv8)
-[![Deep Learning from Scratch](https://github-readme-stats.vercel.app/api/pin/?username=Yuma-Kanematsu&repo=deep-learning-from-scratch&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e)](https://github.com/Yuma-Kanematsu/deep-learning-from-scratch)
-
 </div>
 
 ---
